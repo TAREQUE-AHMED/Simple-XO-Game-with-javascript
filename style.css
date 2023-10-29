@@ -4,7 +4,6 @@ body{
     font-family: serif;
     text-align: center;
 }
-
 h1{
     font-size: 2rem;
 }
@@ -36,7 +35,6 @@ span{
     margin: 5px;
     margin-left: -35px;
 }
-
 .top{
     border-top: none;
 }
@@ -44,11 +42,9 @@ span{
 .bottom{
     border-bottom: none;
 }
-
 .left{
     border-left: none;
 }
-
 .right{
     border-right: none;
 }
@@ -86,7 +82,6 @@ button:focus{
 .activeBox{
     background: silver;
 }
-
 @keyframes larger{
     from{
         height: 75px;
@@ -97,5 +92,4 @@ button:focus{
         height: 100px;
         width: 250px;
     }
-
 }

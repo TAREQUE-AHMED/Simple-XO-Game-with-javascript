@@ -1,5 +1,3 @@
-
-
 # Screenshot
 Here we have project screenshot :
 
